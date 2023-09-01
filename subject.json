@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "questionText": "What is the capital of France?",
+      "options": [
+        "London",
+        "Madrid",
+        "Paris",
+        "Berlin"
+      ],
+      "correctOption": "Paris"
+    },
+    {
+      "questionText": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Earth",
+        "Venus"
+      ],
+      "correctOption": "Mars"
+    },
+    {
+      "questionText": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "correctOption": "William Shakespeare"
+    },
+    {
+      "questionText": "What is the largest mammal in the world?",
+      "options": [
+        "Giraffe",
+        "Elephant",
+        "Blue Whale",
+        "Kangaroo"
+      ],
+      "correctOption": "Blue Whale"
+    }
+  ]
+}
