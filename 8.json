@@ -1,54 +1,54 @@
 {
   "questions": [
     {
-      "questionText": "What is the capital of Japan?",
+      "questionText": "What is the largest desert in the world?",
       "options": [
-        "Beijing",
-        "Seoul",
-        "Tokyo",
-        "Bangkok"
+        "Sahara Desert",
+        "Arctic Desert",
+        "Gobi Desert",
+        "Atacama Desert"
       ],
-      "correctOption": "Tokyo"
+      "correctOption": "Sahara Desert"
     },
     {
-      "questionText": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "questionText": "Who painted the Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Michelangelo"
+      ],
+      "correctOption": "Leonardo da Vinci"
+    },
+    {
+      "questionText": "Which gas makes up the majority of Earth's atmosphere?",
       "options": [
         "Oxygen",
         "Carbon Dioxide",
         "Nitrogen",
         "Hydrogen"
       ],
-      "correctOption": "Carbon Dioxide"
+      "correctOption": "Nitrogen"
     },
     {
-      "questionText": "Who is the author of the novel 'To Kill a Mockingbird'?",
+      "questionText": "What is the largest planet in our solar system?",
       "options": [
-        "John Steinbeck",
-        "F. Scott Fitzgerald",
-        "Harper Lee",
-        "George Orwell"
-      ],
-      "correctOption": "Harper Lee"
-    },
-    {
-      "questionText": "What is the chemical symbol for gold?",
-      "options": [
-        "Go",
-        "Ag",
-        "Au",
-        "Gd"
-      ],
-      "correctOption": "Au"
-    },
-    {
-      "questionText": "Which planet is known as the 'Morning Star'?",
-      "options": [
+        "Earth",
         "Mars",
-        "Venus",
-        "Mercury",
-        "Saturn"
+        "Jupiter",
+        "Venus"
       ],
-      "correctOption": "Venus"
+      "correctOption": "Jupiter"
+    },
+    {
+      "questionText": "Who is known as the 'Father of Modern Physics'?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Stephen Hawking",
+        "Galileo Galilei"
+      ],
+      "correctOption": "Albert Einstein"
     }
   ]
 }
