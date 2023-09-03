@@ -1,54 +1,34 @@
 {
   "questions": [
     {
-      "questionText": "What is the capital of Japan?",
+      "questionText": "Which continent is known as the 'Land Down Under'?",
       "options": [
-        "Beijing",
-        "Seoul",
-        "Tokyo",
-        "Bangkok"
+        "North America",
+        "Europe",
+        "Australia",
+        "Asia"
       ],
-      "correctOption": "Tokyo"
+      "correctOption": "Australia"
     },
     {
-      "questionText": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "questionText": "Who is the author of 'The Great Gatsby'?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Hydrogen"
-      ],
-      "correctOption": "Carbon Dioxide"
-    },
-    {
-      "questionText": "Who is the author of the novel 'To Kill a Mockingbird'?",
-      "options": [
-        "John Steinbeck",
+        "Mark Twain",
         "F. Scott Fitzgerald",
-        "Harper Lee",
-        "George Orwell"
+        "Ernest Hemingway",
+        "Jane Austen"
       ],
-      "correctOption": "Harper Lee"
+      "correctOption": "F. Scott Fitzgerald"
     },
     {
-      "questionText": "What is the chemical symbol for gold?",
+      "questionText": "What is the largest ocean in the world?",
       "options": [
-        "Go",
-        "Ag",
-        "Au",
-        "Gd"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
-      "correctOption": "Au"
-    },
-    {
-      "questionText": "Which planet is known as the 'Morning Star'?",
-      "options": [
-        "Mars",
-        "Venus",
-        "Mercury",
-        "Saturn"
-      ],
-      "correctOption": "Venus"
+      "correctOption": "Pacific Ocean"
     }
   ]
 }
