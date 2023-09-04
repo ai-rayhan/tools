@@ -1,14 +1,14 @@
 {
   "questions": [
     {
-      "questionText": "What is the capital of France?",
+      "questionText": "What is the capital of England?",
       "options": [
         "London",
         "Madrid",
         "Paris",
         "Berlin"
       ],
-      "correctOption": "Paris"
+      "correctOption": "London"
     },
     {
       "questionText": "Which planet is known as the Red Planet?",
