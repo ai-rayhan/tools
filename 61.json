@@ -1,31 +1,39 @@
 {
-  "Mathematics": [
+  "subjects": [
     {
-      "unitName": "Algebra",
-      "parts": [
-        {"partName": "Part 1", "partDetails": "Details for Part 1"},
-        {"partName": "Part 2", "partDetails": "Details for Part 2"}
+      "subjectName": "Mathematics",
+      "units": [
+        {
+          "unitName": "Algebra",
+          "parts": [
+            {"partName": "Part 1", "partDetails": "Details for Part 1"},
+            {"partName": "Part 2", "partDetails": "Details for Part 2"}
+          ]
+        },
+        {
+          "unitName": "Geometry",
+          "parts": [
+            {"partName": "Part 1", "partDetails": "Details for Part 1"}
+          ]
+        }
       ]
     },
     {
-      "unitName": "Geometry",
-      "parts": [
-        {"partName": "Part 1", "partDetails": "Details for Part 1"}
-      ]
-    }
-  ],
-  "Science": [
-    {
-      "unitName": "biology",
-      "parts": [
-        {"partName": "Part 1", "partDetails": "Details for Part 1"},
-        {"partName": "Part 2", "partDetails": "Details for Part 2"}
-      ]
-    },
-    {
-      "unitName": "chemistry",
-      "parts": [
-        {"partName": "Part 1", "partDetails": "Details for Part 1"}
+      "subjectName": "Science",
+      "units": [
+        {
+          "unitName": "Biology",
+          "parts": [
+            {"partName": "Part 1", "partDetails": "Details for Part 1"},
+            {"partName": "Part 2", "partDetails": "Details for Part 2"}
+          ]
+        },
+        {
+          "unitName": "Chemistry",
+          "parts": [
+            {"partName": "Part 1", "partDetails": "Details for Part 1"}
+          ]
+        }
       ]
     }
   ]
