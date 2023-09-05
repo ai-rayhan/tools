@@ -1,36 +1,32 @@
- {
+{
   "Mathematics": [
     {
       "unitName": "Algebra",
       "parts": [
         {"partName": "Part 1", "partDetails": "Details for Part 1"},
-        {"partName": "Part 2", "partDetails": "Details for Part 2"},
+        {"partName": "Part 2", "partDetails": "Details for Part 2"}
       ]
     },
     {
-      "unitName": "Geometry"
+      "unitName": "Geometry",
       "parts": [
-        {"partName": "Part 1", "partDetails": "Details for Part 1"},
-
+        {"partName": "Part 1", "partDetails": "Details for Part 1"}
       ]
     }
   ],
-   "Science": [
+  "Science": [
     {
       "unitName": "biology",
       "parts": [
         {"partName": "Part 1", "partDetails": "Details for Part 1"},
-        {"partName": "Part 2", "partDetails": "Details for Part 2"},
+        {"partName": "Part 2", "partDetails": "Details for Part 2"}
       ]
     },
     {
-      "unitName": "chemistry"
+      "unitName": "chemistry",
       "parts": [
-        {"partName": "Part 1", "partDetails": "Details for Part 1"},
-
+        {"partName": "Part 1", "partDetails": "Details for Part 1"}
       ]
     }
-  ],
-
+  ]
 }
-
