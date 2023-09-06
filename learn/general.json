@@ -1,0 +1,40 @@
+{
+  "subjects": [
+    {
+      "subjectName": "chemitry",
+      "units": [
+        {
+          "unitName": "Algebra",
+          "parts": [
+            {"partName": "Part 1", "partDetails": "Details for Part 1"},
+            {"partName": "Part 2", "partDetails": "Details for Part 2"}
+          ]
+        },
+        {
+          "unitName": "Geometry",
+          "parts": [
+            {"partName": "Part 1", "partDetails": "Details for Part 1"}
+          ]
+        }
+      ]
+    },
+    {
+      "subjectName": "physics",
+      "units": [
+        {
+          "unitName": "Biology",
+          "parts": [
+            {"partName": "Part 1", "partDetails": "Details for Part 1"},
+            {"partName": "Part 2", "partDetails": "Details for Part 2"}
+          ]
+        },
+        {
+          "unitName": "Chemistry",
+          "parts": [
+            {"partName": "Part 1", "partDetails": "Details for Part 1"}
+          ]
+        }
+      ]
+    }
+  ]
+}
