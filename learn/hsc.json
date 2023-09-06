@@ -1,7 +1,7 @@
 {
   "subjects": [
     {
-      "subjectName": "Mathematics",
+      "subjectName": "higher math",
       "units": [
         {
           "unitName": "Algebra",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "subjectName": "Science",
+      "subjectName": "higher study",
       "units": [
         {
           "unitName": "Biology",
