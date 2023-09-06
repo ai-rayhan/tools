@@ -1,35 +1,46 @@
 {
   "subjects": [
     {
-      "subjectName": "chemitry",
+      "subjectName": "General",
       "units": [
         {
-          "unitName": "Algebra",
+          "unitName": "Sports",
           "parts": [
-            {"partName": "Part 1", "partDetails": "Details for Part 1"},
-            {"partName": "Part 2", "partDetails": "Details for Part 2"}
+            {"partName": "Introduction", "partDetails": "Sports have been an integral part of human civilization for centuries, transcending geographical boundaries and cultural differences. They embody the essence of competition, teamwork, and physical prowess, captivating the hearts and minds of people worldwide. Whether you're a dedicated athlete, an enthusiastic fan, or someone with a passing interest, the world of sports offers something for everyone."},
+            {"partName": "Cricket", "partDetails": "Cricket is more than just a sport; it's a way of life for millions of enthusiasts across the globe. With its origins dating back to the sixtenth century in England, cricket has evolved into one of the most popular and widely followed sports in the world. It's a game of bat and ball, strategy, and tradition that has captured the hearts of nations and given rise to legendary players and unforgettable moments.
+
+Cricket is characterized by its unique blend of individual and team skills. The game is played on a circular or oval field with a rectangular twentytwo-yard pitch at its center. Two teams, each consisting of eleven players, take turns to bat and bowl. The objective is simple: the batting team aims to score runs by hitting the ball and running between two sets of wooden stumps, while the bowling and fielding team seeks to dismiss the batsmen and limit their runs.
+
+At the heart of cricket is the Test match format, which can span up to five days, making it one of the longest and most challenging sporting contests. Test matches are often seen as the pinnacle of the game, requiring not only physical prowess but also mental endurance. On the other hand, the One Day International (ODI) and Twenty (T-twenty) formats have brought a faster and more dynamic style of cricket to the forefront, captivating audiences with their excitement and entertainment.
+
+Cricket has produced some of the most iconic figures in the world of sports, from Sir Don Bradman's unmatched batting records to Sachin Tendulkar's legendary career. The sport has transcended boundaries, sparking intense rivalries between nations like India and Pakistan, England and Australia, and South Africa and the West Indies.
+
+The pinnacle of international cricket is the Cricket World Cup, which brings together teams from across the globe to compete for the coveted trophy. The Indian Premier League (IPL) and other domestic leagues have further popularized the game, attracting top talent and providing a platform for emerging cricketers.
+
+But cricket is not just about statistics and victories; it's a cultural phenomenon. It's the sound of leather hitting willow on a lazy summer afternoon, the roar of the crowd at a packed stadium, and the camaraderie of fans from diverse backgrounds coming together to support their teams."}
           ]
         },
         {
-          "unitName": "Geometry",
+          "unitName": "Bagladesh and Global",
           "parts": [
-            {"partName": "Part 1", "partDetails": "Details for Part 1"}
+            {"partName": "Introduction", "partDetails": " Bangladesh is a significant player on the global stage, both in terms of its population size and its role in addressing global challenges, such as climate change and humanitarian crises. The country's economic growth, development progress, and diplomatic engagements contribute to its importance in the international community"}
+             {"partName": "Nature of Bangladesh", "partDetails": " Bangladesh is a significant player on the global stage, both in terms of its population size and its role in addressing global challenges, such as climate change and humanitarian crises. The country's economic growth, development progress, and diplomatic engagements contribute to its importance in the international community"}
           ]
         }
       ]
     },
     {
-      "subjectName": "physics",
+      "subjectName": "Current Affairs",
       "units": [
         {
-          "unitName": "Biology",
+          "unitName": "News $ Blog",
           "parts": [
             {"partName": "Part 1", "partDetails": "Details for Part 1"},
             {"partName": "Part 2", "partDetails": "Details for Part 2"}
           ]
         },
         {
-          "unitName": "Chemistry",
+          "unitName": "Magazine",
           "parts": [
             {"partName": "Part 1", "partDetails": "Details for Part 1"}
           ]
