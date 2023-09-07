@@ -1,14 +1,14 @@
 {
   "questions": [
     {
-      "questionText": "What is the capital of india?",
+      "questionText": "What is the capital of nepal?",
       "options": [
         "Beijing",
         "Seoul",
-        "delli",
+        "katmundu",
         "Bangkok"
       ],
-      "correctOption": "delli"
+      "correctOption": "katmundu"
     },
     {
       "questionText": "Which gas do plants absorb from the atmosphere during photosynthesis?",
