@@ -1,50 +1,54 @@
 {
-  "subjects": [
-    {
-      "subjectName": "General",
-      "units": [
-        {
-          "unitName": "Sports",
-          "topic": [
-                "নবযুগ",
-                "লাঙল",
-                "ধূমকেতু",
-                "বিজলী"
-            ]
-        },
-        {
-          "unitName": "Bangladesh and Global",
-         "topic": [
-                "নবযুগলাঙললাঙললাঙললাঙললাঙললাঙললাঙললাঙললাঙল",
-                "লাঙল",
-                "ধূমকেতু",
-                "বিজলী"
-            ]
-        }
-      ]
-    },
-    {
-      "subjectName": "Current Affairs",
-      "units": [
-        {
-          "unitName": "News & Blog",
-         "topic": [
-                "নবযুগ",
-                "লাঙল",
-                "ধূমকেতু",
-                "বিজলী"
-            ]
-        },
-        {
-          "unitName": "Magazine",
-         "topic": [
-                "নবযুগ",
-                "লাঙল",
-                "ধূমকেতু",
-                "বিজলী"
-            ]
-        }
-      ]
-    }
-  ]
-}
+    "subjects": [
+      {
+        "subjectName": "General",
+        "units": [
+          {
+            "unitName": "Sports",
+            "url": "Sports",
+            "topic": [
+                  "নবযুগ",
+                  "লাঙল",
+                  "ধূমকেতু",
+                  "বিজলী"
+              ]
+          },
+          {
+            "unitName": "Bangladesh and Global",
+            "url": "Sports",
+           "topic": [
+                  "নবযুগলাঙললাঙললাঙললাঙললাঙললাঙললাঙললাঙললাঙল",
+                  "লাঙল",
+                  "ধূমকেতু",
+                  "বিজলী"
+              ]
+          }
+        ]
+      },
+      {
+        "subjectName": "Current Affairs",
+        "units": [
+          {
+            "unitName": "News & Blog",
+            "url": "https://github.com/ai-rayhan/tools/edit/main/learn/general.json",
+           "topic": [
+                  "নবযুগ",
+                  "লাঙল",
+                  "ধূমকেতু",
+                  "বিজলী"
+              ]
+          },
+          {
+            "unitName": "Magazine",
+            "url": "Sports",
+           "topic": [
+                  "নবযুগ",
+                  "লাঙল",
+                  "ধূমকেতু",
+                  "বিজলী"
+              ]
+          }
+        ]
+      }
+    ]
+  }
