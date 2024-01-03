@@ -1,0 +1,46 @@
+{
+    "subjects": [
+      {
+        "subjectName": "General",
+        "units": [
+          {
+            "unitName": "Sports",
+            "url": "Sports",
+            "topic": [
+                  "নবযুগ dfguhdfuhgudhughuhushjhfigh",
+                  "লাঙল"
+              ]
+          },
+          {
+            "unitName": "Bangladesh and Global",
+            "url": "Sports",
+           "topic": [
+                  "নবযুগ",
+                  "লাঙল"
+              ]
+          }
+        ]
+      },
+      {
+        "subjectName": "Current Affairs",
+        "units": [
+          {
+            "unitName": "News & Blog",
+            "url": "https://github.com/ai-rayhan/tools/edit/main/learn/general.json",
+           "topic": [
+                  "নবযুগ",
+                  "লাঙল"
+              ]
+          },
+          {
+            "unitName": "Magazine",
+            "url": "Sports",
+           "topic": [
+                  "নবযুগ",
+                  "লাঙল"
+              ]
+          }
+        ]
+      }
+    ]
+  }
