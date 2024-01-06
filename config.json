@@ -1,0 +1,35 @@
+{
+    "forceupdate": false,
+    "fb_link": "https://example.com/syllabus",
+    "notice": "https://example.com/study",
+    "videolink": "https://example.com/study",
+    "notifications": [
+        {
+            "title": "New Update Available",
+            "subtitle": "Check out the latest features!",
+            "image_link": "https://example.com/notification_image1.jpg"
+        },
+        {
+            "title": "Upcoming Event",
+            "subtitle": "Join us for an exciting event!",
+            "image_link": "https://example.com/notification_image2.jpg"
+        }
+    ],
+    "blog_links": [
+        {
+            "title": "Tips for Effective Study Habits",
+            "link": "https://example.com/blog/study_tips",
+            "imagelink": "https://example.com/blog/study_tips"
+        },
+        {
+            "title": "Exploring New Learning Techniques",
+            "link": "https://example.com/blog/learning_techniques",
+            "imagelink": "https://example.com/blog/learning_techniques"
+        }
+    ],
+    "ads": {
+        "banner": "dfdfsafd",
+        "interstitial": "dsfgfdfds"
+    },
+    "mobile_no": "32940548"
+}
