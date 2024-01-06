@@ -1,8 +1,8 @@
 {
     "forceupdate": false,
     "fb_link": "https://example.com/syllabus",
-    "notice": "https://example.com/study",
-    "videolink": "https://example.com/study",
+    "notice": "example.com/study",
+    "special_applink": "none",
     "notifications": "https://json.extendsclass.com/bin/dfb56b8a3bcf",
     "blog_links": "https://json.extendsclass.com/bin/d7b2864c20a9",
     "ads": {
