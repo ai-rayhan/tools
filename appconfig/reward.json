@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "priceNo": 1,
+      "imageLink": "https://example.com/image1.jpg",
+      "priceName": "Product A",
+      "subtitle": "Description for Product A"
+    },
+    {
+      "priceNo": 2,
+      "imageLink": "https://example.com/image2.jpg",
+      "priceName": "Product B",
+      "subtitle": "Description for Product B"
+    },
+    {
+      "priceNo": 3,
+      "imageLink": "https://example.com/image3.jpg",
+      "priceName": "Product C",
+      "subtitle": "Description for Product C"
+    }
+  ],
+  "termsAndConditions": "Please read the terms and conditions before making any purchase."
+}
