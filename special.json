@@ -1,0 +1,15 @@
+{
+    "syllabus_link": "https://ai-rayhan.github.io/pdf-books/git-cheat-sheet%20(1).pdf",
+    "study_link": "https://ai-rayhan.github.io/tools/learn/8.json",
+    "practice_links": {
+      "easy": "https://ai-rayhan.github.io/tools/practice/ssc/easy.json",
+      "medium": "https://ai-rayhan.github.io/tools/8.json",
+      "hard": "https://ai-rayhan.github.io/tools/8.json"
+    },
+    "exam_id": "ABC123",
+     "ispublished": true,
+    "last_score_update": "2024-01-04T15:58:11.238021",
+    "exam_link": "https://ai-rayhan.github.io/tools/practice/ssc/easy.json",
+    "meritist_link": "https://example.com/result"
+  }
+  
