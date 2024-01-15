@@ -1,5 +1,6 @@
 {
-    "forceupdate": "1.0ju",
+    "forceupdate": false,
+    "appversion": "1.0.0",
     "fb_link": "https://facebook.com/groups/1386640005305667",
     "notice": "https://youtu.be/MkSPQjKj42M?si=FntsLdSXp4mk4U7e",
     "special_applink": "none",
