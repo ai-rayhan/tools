@@ -3,12 +3,12 @@
     "appversion": "1.0.0",
     "fb_link": "https://facebook.com/groups/1386640005305667",
     "notice": "https://youtu.be/MkSPQjKj42M?si=FntsLdSXp4mk4U7e",
-    "special_applink": "none",
+    "special_app": "true",
     "notifications": "https://json.extendsclass.com/bin/dfb56b8a3bcf",
     "blog_links": "https://json.extendsclass.com/bin/d7b2864c20a9",
     "ads": {
-        "banner": "dfdhufsafd",
-        "interstitial": "dsfgfdfds"
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712"
     },
     "mobile_no": "32940548",
     "reward_link": "https://raw.githubusercontent.com/ai-rayhan/tools/main/appconfig/reward.json"
