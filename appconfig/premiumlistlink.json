@@ -1,9 +1,9 @@
 {
-  "userIds": [
-    "bhYcM1SSBhOg60PEJrQOzlQTImz1",
-    "uid456",
-    "uid789",
-    "uid987",
-    "uid654"
+  "users": [
+    {"userId": "bhYcM1SSBhOg60PEJrQOzlQTImz1", "registeredDate": "2022-01-17"},
+    {"userId": "uid456", "registeredDate": "2022-01-18"},
+    {"userId": "uid789", "registeredDate": "2022-01-19"},
+    {"userId": "uid987", "registeredDate": "2022-01-20"},
+    {"userId": "uid654", "registeredDate": "2022-01-21"}
   ]
 }
