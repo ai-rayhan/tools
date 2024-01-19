@@ -1,9 +1,9 @@
 {
   "users": [
-    {"userId": "bhYcM1SSBhOg60PEJrQOzlQTImz1", "registeredDate": "2022-01-17"},
-    {"userId": "uid456", "registeredDate": "2022-01-18"},
-    {"userId": "uid789", "registeredDate": "2022-01-19"},
-    {"userId": "uid987", "registeredDate": "2022-01-20"},
-    {"userId": "uid654", "registeredDate": "2022-01-21"}
+    {"userId": "bhYcM1SSBhOg60PEJrQOzlQTImz1", "exparyDate": "2022-01-17"},
+    {"userId": "uid456", "exparyDate": "2022-01-18"},
+    {"userId": "uid789", "exparyDate": "2022-01-19"},
+    {"userId": "uid987", "exparyDate": "2022-01-20"},
+    {"userId": "uid654", "exparyDate": "2022-01-21"}
   ]
 }
